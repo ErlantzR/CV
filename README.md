@@ -11,13 +11,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Overview Ltd** (Nov'19 to Mar'22)  
+_Applications Support Technician_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Qila Energy** (Jan'18 to Jun'19)  
+_Graduate Engineer_
 
 - Any experience relevent to software development
 
@@ -53,7 +53,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Mar'22 to Jul'22)
+
+- A 16-week intensive development bootcamp
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +64,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Oviedo (Spain) (Sep'05 to Dec'11)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Master's degree in Industrial Engineering
+- 2:1
+- Specialise in Production Engineering
 
-#### Any other qualifications
+#### UNED (Spanish long distance University) (Sept'15)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BASc in Computer Science
+- Core subjects: C++, Java
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Sports: Huge football fan (Athletic de Bilbao supporter) and enjoy playing almost any sport (specially team sports).
+- Videogames: From Nintendo to Playstation, I like to play many different types of videogames 
+- Cooking: Not a super chef, but I like a lot cooking, mostly for friends and family (I get lazy when cooking for myself)
