@@ -9,10 +9,10 @@ Tech Skills: Ruby
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Project (Repo)   | Description | Live link | Technologies |
+|---        |---          |---   |---           |
+| [Palendar](https://https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
+
 
 ## Work Experience
 
