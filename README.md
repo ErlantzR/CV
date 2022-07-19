@@ -88,5 +88,6 @@ _Graduate Engineer_
 ## Hobbies
 
 - Sports: Huge football fan (Athletic de Bilbao supporter) and enjoy playing almost any sport (specially team sports).
+- Boardgames: Also huge fan of boardgames. One of the best ways to spend some good time with friends and family.
 - Videogames: From Nintendo to Playstation, I like to play many different types of videogames 
-- Cooking: Not a super chef, but I like a lot cooking, mostly for friends and family (I get lazy when cooking for myself)
+- Cooking: Not a super chef, but I like a lot cooking, mostly for friends and family (I get lazy when cooking for myself).
