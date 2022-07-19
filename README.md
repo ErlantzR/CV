@@ -12,7 +12,7 @@ Tech Skills: Ruby
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
 | [Palendar](https://https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
-
+| [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional external reviewers. | Example recording (JavaScript-Jest): https://youtu.be/45M7N1DoOTw | (JavaScript-Jest), (Ruby-RSpec) |
 
 ## Work Experience
 
