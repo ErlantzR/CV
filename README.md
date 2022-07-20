@@ -1,13 +1,21 @@
-## Erlantz Ramos
+<div align="center">
+
+# Erlantz Ramos
+
+[About me](#about_me)   | [Projects](#projects) | [Experience](#work_experience) | [Skills](#skills) | [Education](#education) |  [Hobbies](#hobbies)
+
+</div>
+
+## <a name="about_me">About me</a>
 
 I am a self-driven and fast learner person, looking for a role where I can consolidate and extend my programming knowledge, while also continue my development as a software developer.
 
-With a Master's degree in Industrial Engineering, I have always had some interest in programming. Started a Computer Science degree while working part-time for some time and recently learnt to code at Makers Academy, a 16 week software development bootcamp, so I could finally start my career path in Software
+With a Master's degree in Industrial Engineering, I have always had interest in programming. Started a Computer Science degree while working part-time for some time and recently learnt to code at Makers Academy, a 16 week software development bootcamp, so I could finally start my career path in Software.
 
 Tech Skills: Ruby
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
-## Projects
+## <a name="projects">Projects</a>
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
@@ -17,7 +25,7 @@ Tech Skills: Ruby
 | [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account |  | JavaScript, Jest |
 | [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional external reviewers. | Example recording (JavaScript-Jest): https://youtu.be/45M7N1DoOTw | (JavaScript-Jest), (Ruby-RSpec) |
 
-## Work Experience
+## <a name="work_experience">Work experience</a>
 
 **Overview Ltd** (Nov'19 to Mar'22)  
 _Applications Support Technician_
@@ -29,7 +37,7 @@ _Graduate Engineer_
 
 <!-- - Any experience relevent to software development -->
 
-## Skills
+## <a name="skills">Skills</a>
 
 <!--Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -64,7 +72,7 @@ _Graduate Engineer_
 
 - Foreign languages: Spanish (Native)
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (Mar'22 to Jul'22)
 
@@ -88,7 +96,7 @@ _Graduate Engineer_
 - BASc in Computer Science
 - Core subjects: C++, Java
 
-## Hobbies
+## <a name="hobbies">Hobbies</a>
 
 - Sports: Huge football fan (Athletic de Bilbao supporter) and enjoy playing almost any sport (specially team sports).
 - Boardgames: Also huge fan of boardgames. One of the best ways to spend some good time with friends and family.
