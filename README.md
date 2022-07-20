@@ -11,7 +11,10 @@ Tech Skills: Ruby
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
-| [Palendar](https://https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
+| [Palendar](https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | JavaScript, MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
+| [Acebook](https://github.com/ErlantzR/acebook) | Enginnering project: Facebook clone | https://lacebook.herokuapp.com/ | JavaScript, MongoDB, Express, Node, Jest, etc. |
+| [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when ordered is finished (Twilio) |  | Ruby, RSpec, Twilio |
+| [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account |  | JavaScript, Jest |
 | [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional external reviewers. | Example recording (JavaScript-Jest): https://youtu.be/45M7N1DoOTw | (JavaScript-Jest), (Ruby-RSpec) |
 
 ## Work Experience
