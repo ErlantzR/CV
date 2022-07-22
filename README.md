@@ -26,8 +26,8 @@ Tech Skills:
 |---        |---          |---   |---           |
 | [Palendar](https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | JavaScript, MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
 | [Acebook](https://github.com/ErlantzR/acebook) | Enginnering project: Facebook clone | https://lacebook.herokuapp.com/ | JavaScript, MongoDB, Express, Node, Jest, etc. |
-| [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when ordered is finished (Twilio) |  | Ruby, RSpec, Twilio |
 | [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account. An example of Object Oriantated Design, including thorough testing and Dependency Injection |  | JavaScript, Jest |
+| [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when ordered is finished (Twilio) |  | Ruby, RSpec, Twilio |
 | [Code reviews](https://github.com/jasylwong/code-reviews/tree/master/code-review-3) | Coding challenges completed while under the watchful eye of independent professional external reviewers. | Example recording (JavaScript-Jest): https://youtu.be/45M7N1DoOTw | (JavaScript-Jest), (Ruby-RSpec) |
 
 ## <a name="work_experience">Work experience</a>
@@ -44,19 +44,6 @@ _Graduate Engineer_
 
 ## <a name="skills">Skills</a>
 
-<!--Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result? -->
-
-
 ### Quick learner
 
 During my working life, I have expereienced several times where this skill (quick learner) has been needed and beneficial. Even though my specialization is in Production Engineer, I have joined 2 companies in London where my role had no relation with that and I had to quickly learn all what was needed to perform as expected.  
@@ -65,14 +52,21 @@ At Overview, a company dedicated to positioning drives, I had to understand the 
 In both situations, I have been told good things about my performance and my flexibility in terms of learning new concepts.
 
 
-### Team management
+### Self-driven
 
-<!--Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+When working at Overview, my role implied being in contact  with future and current clients who were using our products (or testing them) for a particular project. After a few months, my manager resigned and I became the only point of contact with clients for this purpose.  
+Being a self-driven, self-motivated individual helped me during this process. Of course I needed some help sometimes from some of my colleagues in other teams but I wasn't afraid to ask so I could own my role and the company decided to let me as the contact from clients for applications (they never replaced my old manager's position).
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)-->
+### Team player
+
+Even though I am also used to work on my own, I believe in the importance on working in a team and have good communication with others.  
+During my work experience in both Qila and Overview, I had to collaborate with other colleagues to achieve the right answers or outcomes. Also, before that, I work in Marks and Spencer, firs as Team Member and then as Team Lead, where being able to work in a team was crucial and had good experiences there (both being part of the team and leading).  
+Besides, during these last few months at Makers, we focussed on the way Software teams usually work. We had pairing sessions everyday and got involved in engineering projects, where, as part of a small team (between 5 and 7 people), we had to develop a project. In these situations I exoerienced how important a good organization and good communication are when working in a team.
+
+### Critical thinking
+
+I have always considered I am good on critical thinking, which has helped me both when studying my degree in Engineering and during Makers bootcamp.  
+Besides, it is a skill that became important during my work experinence. I remember, for example, this time at Overview when I was in contact with clients resolving doubts they might have about our products and I realised some of these questions were the same from time to time, so I decided to create a register with these questions from clients to reflect whether there were some that were constantly received. The intention was to point out to some lack of information on the manuals we sent to customer or parts that could need a better explanation. This led to updates in the manuals which improved our relationship with clients.
 
 ### Additional skills
 
@@ -85,14 +79,7 @@ In both situations, I have been told good things about my performance and my fle
 Full-time software development course focusing on:	
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
 - Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web apps
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
+- Web frameworks and version control (Git, GitHub).
 
 #### University of Oviedo (Spain) (Sep'05 to Dec'11)
 
