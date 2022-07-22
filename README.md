@@ -35,12 +35,18 @@ Tech Skills:
 **Overview Ltd** (Nov'19 to Mar'22)  
 _Applications Support Technician_
 
-<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
+- Act as first line technical customer support, helping customers to rapidly understand and integrate Overview products and technology.
+- Technical Assistance to Sales: Assist the Business Development team with product
+demonstrations and technical support.
+- Proactively provide pre- and post-sale technical support to customers.
+
 
 **Qila Energy** (Jan'18 to Jun'19)  
 _Graduate Engineer_
 
-<!-- - Any experience relevent to software development -->
+- Responsible for obtaining supplies for all the AD plants such as calibration gases or silage sheets as well as getting servicing contracts for the machinery involved.
+- Analysing site documents and travelling to sites to create a thorough list of spare parts needed in order to handle maintenance emergencies on any site.
+- Creating CAD models (using SketchUp) of parts of the plants designs by the Civil Engineering Director to be shown in internal meetings with the team and external meetings with potential funders.
 
 ## <a name="skills">Skills</a>
 
