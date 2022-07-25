@@ -8,7 +8,7 @@
 
 ## <a name="about_me">About me</a>
 
-I am a self-driven and quick learner full stack programmer, looking for a role where I can consolidate and extend my programming knowledge, while also continue my development as a software developer.
+I am a self-driven and quick learner full stack developer, looking for a role where I can consolidate and extend my programming knowledge, while also continue my development as a software developer.
 
 I studied Industrial Engineering, with specialisation in Production, but I have always had interest in programming. Started a Computer Science degree while working part-time in London for some time and recently decided to give it my full time attention by joining Makers Academy, a 16 week software development bootcamp, so I could finally start my career path in Software.
 
