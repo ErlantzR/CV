@@ -57,7 +57,7 @@ _Graduate Engineer_
 
 ### Quick learner
 
-During my working life, I have experienced several times situations where this skill has been needed and beneficial. Even though my specialisation is in Production Engineer, I have joined 2 companies in London where my role had no relation with that and I had to quickly learn all what was needed to perform as expected.  
+During my working life, I have experienced several situations where this skill has been needed and beneficial. Even though my specialisation is in Production Engineer, I have joined 2 companies in London where my role had no relation with that and I had to quickly learn all what was needed to perform as expected.  
 At Qila, a company dedicated to Biogas, I had to learn all about the process of getting energy from Biogas and design of AD (Anaerobic Digestion) Plants, so I could provide the right support to operators and my manager.  
 At Overview, a company dedicated to positioning drives, I had to understand the elctronic and software used on the drives they sell, so I could provide support to clients or internally about what the drives were capable to do.  
 In both situations, I have received good feedback about my performance and my flexibility in terms of learning new concepts.
