@@ -10,7 +10,7 @@
 
 I am a self-driven and quick learner full stack developer, looking for a role where I can consolidate and extend my programming knowledge, while also continue my development as a software developer.
 
-I studied Industrial Engineering, with specialisation in Production, but I have always had interest in programming. I started a Computer Science degree while working part-time in London for some time but I had to stop once I started woking full time. I recently decided to give it my full time attention by joining Makers Academy, a 16 week software development bootcamp, so I could start my career path in Software.
+I studied Industrial Engineering, with specialisation in Production, but I have always had interest in programming. I started a Computer Science degree while working part-time in London for some time but I had to stop once I started woking full time. I recently decided to give it my full time attention by joining Makers Academy, a 16 weeks software development bootcamp, so I could start my career path in Software.
 
 Tech Skills:
 - JavaScript (React, Node.js, Express, Jest, Cypress)
