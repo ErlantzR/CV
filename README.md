@@ -46,7 +46,7 @@ _Graduate Engineer_
 
 - Responsible for obtaining supplies for all the AD plants such as calibration gases or silage sheets as well as getting servicing contracts for the machinery involved.
 - Analysing site documents and travelling to sites to create a thorough list of spare parts needed in order to handle maintenance emergencies on any site.
-- Creating CAD models (using SketchUp) of parts of the plants designs by the Civil Engineering Director to be shown in internal meetings with the team and external meetings with potential funders.
+- Creating CAD models (using SketchUp) of parts of the plants designs for the Civil Engineering Director to be shown in internal meetings with the team and external meetings with potential funders.
 
 **Other roles**
 - Marks and Spencer (London): Initially as Team Member and then as Team Leader
