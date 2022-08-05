@@ -24,7 +24,7 @@ Tech Skills:
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
-| [Palendar](https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars with friends and see available days to hang out! :people_holding_hands: | https://thepalendar.netlify.app/ | JavaScript, MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
+| [Palendar](https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars with friends and see available days to hang out! :people_holding_hands: | https://palendar-teamlaser.netlify.app/ | JavaScript, MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
 | [Acebook](https://github.com/ErlantzR/acebook) | Enginnering project: Facebook clone | https://lacebook.herokuapp.com/ | JavaScript, MongoDB, Express, Node, Jest, etc. |
 | [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account. An example of Object Oriantated Design, including thorough testing and Dependency Injection |  | JavaScript, Jest |
 | [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when the order is complete (Twilio) |  | Ruby, RSpec, Twilio |
