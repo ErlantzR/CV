@@ -36,7 +36,7 @@ Tech Skills:
 _Applications Support Technician_
 
 - First line of support, helping customers to rapidly understand and integrate Overview products and technology
-- Learning quickly and keeping updated about the technology (both electronics and software) involved, to provide the best answer to customer queries.
+- Learning quickly and keeping updated about the technology (both electronics and software) involved, to provide the best answer to customer queries
 - Collaborating with other teams when modifications on the products were requested by customers. For example, testing new firmware or hardware
 - Assisting the Business Development team with product demonstrations and technical support when required, acting quickly and effectively to meet tight deadlines
 - Building good relationships with customers resulting in long-lasting clients and partnerships
@@ -46,7 +46,7 @@ _Applications Support Technician_
 _Graduate Engineer_
 
 - Responsible for obtaining supplies for all the AD (Anaerobic Digestion) plants such as calibration gases or spare parts, as well as getting servicing contracts for the machinery involved. Taking the initiative to establish new effective systems to control the need of supplies and servicing
-- Collaborating and building strong relationships with plant operators and suppliers to ensure the good functioning of the plants.
+- Collaborating and building strong relationships with plant operators and suppliers to ensure the good functioning of the plants
 - Adapting quickly to understand and identify the different needs of the plants, due to the variety of sizes and designs between them
 - Creating 3D CAD models (using SketchUp) of parts of the plants designs for the Civil Engineering Director, which required special attention to detail as they were shown in internal and external meetings, both for the team and for potential funders
 
