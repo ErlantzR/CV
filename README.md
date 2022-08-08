@@ -37,7 +37,7 @@ _Applications Support Technician_
 
 - First line of support, helping customers to rapidly understand and integrate Overview products and technology
 - Learning quickly and keeping updated about the technology (both electronics and software) involved, to provide the best answer to customer queries
-- Collaborating with other teams when modifications on the products were requested by customers. For example, testing new firmware or hardware
+- Collaborating with other teams when modifications on the products were needed in order to meet expectations (e.g. testing new firmware or hardware)
 - Assisting the Business Development team with product demonstrations and technical support when required, acting quickly and effectively to meet tight deadlines
 - Building good relationships with customers resulting in long-lasting clients and partnerships
 
