@@ -36,27 +36,30 @@ Tech Skills:
 _Applications Support Technician_
 
 - First line of support, helping customers to rapidly understand and integrate Overview products and technology
-- Learning quickly and keeping updated about the technology (both electronics and software) involved, to provide the best answer for the customer query.
+- Learning quickly and keeping updated about the technology (both electronics and software) involved, to provide the best answer to customer queries.
 - Collaborating with other teams when modifications on the products were needed to meet expectations, like testing new firmware or hardware
-- Assisting the Business Development team with product demonstrations and technical support when required, meeting deadlines
-- Building good relationships with customers to create long-lasting clients and partnerships
+- Assisting the Business Development team with product demonstrations and technical support when required, acting quickly and effectively to meet tight deadlines
+- Building good relationships with customers resulting in long-lasting clients and partnerships
 
 
 **Qila Energy** (Jan'18 to Jun'19)  
 _Graduate Engineer_
 
-- Responsible for obtaining supplies for all the AD (Anaerobic Digestion) plants such as calibration gases or spare parts as well as getting servicing contracts for the machinery involved
-- Taking initiave, establishing systems to control the need of supplies in the plants and the need of servicing for the machinery involved
-- Collaborating with plant operators and suppliers to ensure the good functioning of the plants. Creating good relationships with both of them
-- Adapting to the different needs of the plants, due to the variety of sizes and design between plants
-- Creating 3D CAD models (using SketchUp) of parts of the plants designs for the Civil Engineering Director with special attention to detail, as they were shown in internal and external meetings, both for the team and for potential funders
+- Responsible for obtaining supplies for all the AD (Anaerobic Digestion) plants such as calibration gases or spare parts, as well as getting servicing contracts for the machinery involved. Taking the initiative to establish new effective systems to control the need of supplies and servicing
+- Collaborating and building strong relationships with plant operators and suppliers to ensure the good functioning of the plants. Creating good relationships with both of them
+- Adapting quickly to understand and identify the different needs of the plants, due to the variety of sizes and designs between them
+- Creating 3D CAD models (using SketchUp) of parts of the plants designs for the Civil Engineering Director, which required special attention to detail as they were shown in internal and external meetings, both for the team and for potential funders
 
 **Other roles** ('12 to '18)  
 _Team Member/Team Leader at Marks and Spencer_
-- 
-- Marks and Spencer (London): Initially as Team Member and then as Team Leader
-- Planet Hollywood and Gourmet Burger Kitchen (London): Kitchen roles
-- SAMOA Industrial (Spain): Production Engineer
+- As a team member, dealing with customers, maintaining the highest standards. Working under pressure on busy hours
+- As a team leader, leading the team to ensure a smooth shift for everyone. Dealing with unexpected situations, like colleagues calling sick or complains from customers, making sure everything was still done as expected
+
+_Kitchen Roles at Planet Hollywood and Gourmet Burger Kitchen_
+- Prioritising tasks in a very busy environment, communicating effectively with colleagues to meet company quality standards
+
+_Production Engineer at SAMOA Industrial (Spain)_
+- Analysing the different processes and designing new tools to improve them, which resulted in money saved to the company and improvements in health and safety for the operators
 
 ## <a name="skills">Skills</a>
 
