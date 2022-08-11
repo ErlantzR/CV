@@ -15,7 +15,7 @@ I studied Industrial Engineering in Spain, with specialisation in Production, bu
 Tech Skills:
 - JavaScript (React, Node.js, Express, Jest, Cypress)
 - Ruby (Sinatra, RSpec, Capybara) 
-- Databases (MongoDB, SQL: PostgreSQL)
+- Databases (MongoDB, PostgreSQL)
 - HTML, CSS
 - Heroku
 - Git, GitHub
@@ -26,8 +26,8 @@ Tech Skills:
 |---        |---          |---   |---           |
 | [Palendar](https://github.com/ErlantzR/final-project-palendar) | An easy way to compare calendars with friends and see available days to hang out! :people_holding_hands: | https://palendar-teamlaser.netlify.app/ | JavaScript, MERN Stack (MongoDB, Express, React, Node), Jest, etc. |
 | [Acebook](https://github.com/ErlantzR/acebook) | Enginnering project: Facebook clone | https://lacebook.herokuapp.com/ | JavaScript, MongoDB, Express, Node, Jest, etc. |
-| [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account. An example of Object-Oriented Design, including thorough testing and Dependency Injection |  | JavaScript, Jest |
-| [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when the order is complete (Twilio) |  | Ruby, RSpec, Twilio |
+| [Bank-Tech-Test](https://github.com/ErlantzR/Bank_tech_test) | Tech-Test: Create an interactive bank account. An example of Object-Oriented Design, including thorough testing, Dependency Injection, Abstraction and Encapsulation |  | JavaScript, Jest |
+| [Take-away challenge](https://github.com/ErlantzR/takeaway-challenge) | Challenge: Simulate a take-away ordering system, including sending a text message when the order is complete (First time using an external API: Twilio) |  | Ruby, RSpec, Twilio |
 | Code reviews | Coding challenges completed while under the watchful eye of independent professional external reviewers | Example recording (JavaScript-Jest): https://youtu.be/45M7N1DoOTw | (JavaScript-Jest), (Ruby-RSpec) |
 
 ## <a name="work_experience">Work experience</a>
